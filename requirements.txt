@@ -5,3 +5,4 @@
 black==22.3.0
 black[jupyter]==22.3.0
 pre-commit==2.19.0
+pypdf>=3.1.0 # For PDF manipulation, successor to PyPDF2
